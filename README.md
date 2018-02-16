@@ -2,7 +2,7 @@
 ![Duolingo image](images/duolingo.png)
 * ## Basic 1
 English | Portuguese
-- | -
+-|-
 man | homem
 woman | mulher
 boy | menino
@@ -18,7 +18,7 @@ and | e
 
 * ## Indefinite Articles
 English | Portuguese
-- | -
+-|-
 apple | maça
 orange | laranja
 animal | animal
@@ -26,7 +26,7 @@ elephant | elefante
 
 * ## Basic 2
 English | Portuguese
-- | -
+-|-
 book | livro
 read | ler
 newspaper | jornal
@@ -36,7 +36,7 @@ house | casa
 
 * ## Basic Verbs
 English | Portuguese
-- | -
+-|-
 hear | ourvir
 love | amar
 like | gostar
@@ -44,7 +44,7 @@ has, have | ter
 
 * ## Greetings
 English | Portuguese
-- | -
+-|-
 hello | olá, oi
 bye, goodbye | adeus, tchau
 thanks | obrigado
@@ -60,7 +60,7 @@ speak | falar
 
 * ## Animals
 English | Portuguese
-- | -
+-|-
 horse | cavalo
 bird | pássaro
 duck | pato
@@ -74,7 +74,7 @@ lion | leão
 
 * ## Food
 English | Portuguese
-- | -
+-|-
 eat | comer
 fish | peixe
 chicken | galinha, frango
@@ -112,13 +112,13 @@ rice | arroz
 
 * ## Pronounce it
 English | Portuguese
-- | -
+-|-
 it | é um, uma
 it | ele, ela
 
 * ## Climate
 English | Portuguese
-- | -
+-|-
 rains | chover
 cold | frio
 hot | quente
@@ -129,14 +129,14 @@ thunders | trovejar
 
 * ## Plurals
 English | Portuguese
-- | -
+-|-
 women | mulheres
 men | homens
 children | crianças
 
 * ## Possessives
 English | Portuguese
-- | -
+-|-
 our(s) | nosso(a)
 your(s) | seu, sua, teu, tua
 my, mine | meu, minha
@@ -146,7 +146,7 @@ their | deles(as)
 
 * ## Sung
 English | Portuguese
-- | -
+-|-
 girlfriend | namorada
 boyfriend | namorado
 in love with you | apaixonado por você
